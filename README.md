@@ -5,7 +5,7 @@ It contains 3 main folders as
     3. recognizer which is as recognizer.zip
     
     
-it needs DB Browser to see Database
+it needs DB Browser to see the Databases
 
     
 
